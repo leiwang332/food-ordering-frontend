@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Instfood</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="FoodStyles">
+        <item>All Restaurants</item>
+        <item>American  </item>
+        <item>Japanese  </item>
+        <item>Italian  </item>
+        <item>Indian </item>
+        <item>Chinese  </item>
+    </string-array>
+
+</resources>
